@@ -1,7 +1,7 @@
 # Mustapha Boutzoua
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnluNXNrM3lqb3Z4aGdiMXZlYzNoc2owejM3MHczMXc2cjFkN2ltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="2300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnluNXNrM3lqb3Z4aGdiMXZlYzNoc2owejM3MHczMXc2cjFkN2ltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
