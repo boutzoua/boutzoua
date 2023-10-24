@@ -15,6 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=boutzoua&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 🔭 I’m Data scientist/Engineer
 - 🌱 I’m currently learning MLOps and cloud
 - 👯 I’m looking to collaborate on...
