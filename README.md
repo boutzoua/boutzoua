@@ -11,8 +11,9 @@
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=boutzoua&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m Data scientist/Engineer
 - 🌱 I’m currently learning MLOps and cloud
