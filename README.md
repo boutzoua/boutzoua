@@ -1,6 +1,8 @@
 # Mustapha Boutzoua
 
-<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="100"/>
+</div>
 
 - 🔭 I’m Data scientist/Engineer
 - 🌱 I’m currently learning MLOps and cloud
