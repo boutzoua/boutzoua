@@ -14,9 +14,10 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=boutzoua&style=flat-square&color=blue" alt=""/>
 </div>
+
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255YW01N2FsZnFzNzl2NGR3ZmtjMmZ1dnF1eGVtMHFpZm9vNXkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
