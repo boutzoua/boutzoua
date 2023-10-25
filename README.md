@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning MLOps and cloud
 - 👯 I’m looking to collaborate on...
 - 💬 Ask me about ML/DL, Gen AI.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](stoph.boutzoua@gmail.com) & [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-boutzoua)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](stoph.boutzoua@gmail.com) & [![Linkedin Badge](https://img.shields.io/badge/-kakbar-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-boutzoua)
 - ⚡ Fun fact: First rule of coding, if it works, don't touch it.
 
 ### :hammer_and_wrench: Languages and Tools :
