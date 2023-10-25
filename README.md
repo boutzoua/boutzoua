@@ -13,10 +13,11 @@
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=boutzoua&style=flat-square&color=blue" alt=""/>
-  # Hey there 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255YW01N2FsZnFzNzl2NGR3ZmtjMmZ1dnF1eGVtMHFpZm9vNXkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
-
+<div id="header" align="center">
+  <h1>Hey there...</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255YW01N2FsZnFzNzl2NGR3ZmtjMmZ1dnF1eGVtMHFpZm9vNXkyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""/>
+</div>
 
 - 🔭 I’m Data scientist/Engineer
 - 🌱 I’m currently learning MLOps and cloud
