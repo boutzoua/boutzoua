@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mustapha-boutzoua">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="stoph.boutzoua@gmail.com">
+  <a href="mailto:stoph.boutzoua@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
