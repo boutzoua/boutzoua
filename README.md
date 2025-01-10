@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mustapha-boutzoua">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:stoph.boutzoua@gmail.com">
+  <a href="mailto:mustapha.boutzoua99@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning MLOps and cloud
 - 👯 I’m looking to collaborate on...
 - 💬 Ask me about ML/DL, Gen AI.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stoph.boutzoua@gmail.com) & [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-boutzoua)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mustapha.boutzoua99@gmail.com) & [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-boutzoua)
 - ⚡ Fun fact: First rule of coding, if it works, don't touch it.
 
 ### :hammer_and_wrench: Languages and Tools :
